@@ -11,3 +11,8 @@ For running widgts under jupyter lab, after installing the required packages run
   
 jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib
 
+=======
+
+colab links:
+
+SDA1 -introduction - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA1-Introduction.ipynb)
