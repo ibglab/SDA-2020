@@ -9,4 +9,4 @@ Established: 2020
 
 colab links:
 
-SDA1 -introduction - [![Open In Colab](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA1-Introduction.ipynb)
+SDA1 -introduction - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA1-Introduction.ipynb)
