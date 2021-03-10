@@ -15,4 +15,8 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplot
 
 colab links:
 
-SDA1 -introduction - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA1-Introduction.ipynb)
+SDA1 - introduction - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA1-Introduction.ipynb)
+SDA2 - Stochastic - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA2-Stochastic.ipynb)
+Recitation 1  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Tirgul1.ipynb)
+SDA3 - Poisson - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA3-Poisson.ipynb)
+SDA3 - Single process - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA4-SingleProcess.ipynb)
