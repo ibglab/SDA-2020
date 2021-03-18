@@ -19,9 +19,10 @@ SDA1 - introduction - [![Open In Colab](https://colab.research.google.com/assets
 
 SDA2 - Stochastic - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA2-Stochastic.ipynb)
 
-Recitation 1  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Tirgul1.ipynb)
+Recitation 1  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Recitation%201.ipynb)
 
 SDA3 - Poisson - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA3-Poisson.ipynb)
 
 SDA3 - Single process - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA4-SingleProcess.ipynb)
 
+Recitation 2  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Recitation%202.ipynb)
