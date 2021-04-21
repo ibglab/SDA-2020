@@ -29,3 +29,4 @@ Recitation 2  - [![Open In Colab](https://colab.research.google.com/assets/colab
 
 SDA5 - Multiprocess - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA5-MultiProcess.ipynb)
 
+Recitation 3 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Recitation%203.ipynb)
