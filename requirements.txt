@@ -11,7 +11,7 @@ chardet==4.0.0
 colorama==0.4.3
 contextvars==2.4
 cycler==0.10.0
-dataclasses
+dataclasses==0.8
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
@@ -24,7 +24,7 @@ ipython==7.13.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.15.2
-Jinja2==2.11.1
+Jinja2==2.11.3
 joblib==0.14.1
 json5==0.9.2
 jsonschema==3.2.0
@@ -41,6 +41,7 @@ llvmlite==0.31.0
 MarkupSafe==1.1.1
 matplotlib==3.2.0
 mistune==0.8.4
+mpmath==1.2.1
 nbclassic==0.2.6
 nbconvert==5.6.1
 nbformat==5.0.4
@@ -57,11 +58,12 @@ prompt-toolkit==3.0.4
 ptvsd==4.3.2
 pycorrelate==0.3
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.9.0
 pyparsing==2.4.6
 pyrsistent==0.15.7
 python-dateutil==2.8.1
 pytz==2021.1
+PyWavelets==1.1.1
 pywin32==227
 pywinpty==0.5.7
 pyzmq==19.0.0
@@ -74,13 +76,14 @@ Send2Trash==1.5.0
 six==1.14.0
 sklearn==0.0
 sniffio==1.2.0
+sympy==1.8
 terminado==0.8.3
 testpath==0.4.4
 threadpoolctl==2.0.0
 tornado==6.1
 traitlets==4.3.3
 typing-extensions==3.7.4.3
-urllib3==1.26.3
+urllib3==1.26.4
 wcwidth==0.1.8
 webencodings==0.5.1
 widgetsnbextension==3.5.1
