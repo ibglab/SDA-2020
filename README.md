@@ -37,3 +37,4 @@ Recitation 5 - [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 Recitation 11 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Recitation11.ipynb)
 
+Recitation 12 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ibglab/BIU27505/blob/master/SDA-Recitation12.ipynb)
